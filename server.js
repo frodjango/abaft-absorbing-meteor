@@ -8,9 +8,10 @@ const app = express();
 
 // our default array of dreams
 const dreams = [
-  "Find and count some sheep",
-  "Climb a really tall mountain",
-  "Wash the dishes"
+  "Though a committed royalist when he was young, Hugo's views ", 
+  "changed as the decades passed, and he became a passionate supporter ",
+  "of republicanism serving in politics as both deputy and senator. ",
+  "His work touched upon most of the political and social issues and "
 ];
 
 // make all the files in 'public' available
